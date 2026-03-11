@@ -1,7 +1,7 @@
 // Copyright 2022 UNN-CS
 #include <cmath>
-#include "include/circle.h"
-#include "include/tasks.h"
+#include "../include/circle.h"
+#include "../include/tasks.h"
 
 double task1() {
   double earthRadius = 63781.0;
