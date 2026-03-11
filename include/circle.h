@@ -8,7 +8,7 @@ class Circle {
   double ference;
   double area;
 
-public:
+ public:
   Circle();
 
   void setRadius(double _radius);
@@ -20,4 +20,4 @@ public:
   double getArea() const;
 };
 
-#endif // INCLUDE_CIRCLE_H_
+#endif  // INCLUDE_CIRCLE_H_

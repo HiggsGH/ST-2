@@ -1,8 +1,8 @@
 // Copyright 2022 UNN-CS
-#include "circle.h"
-#include "tasks.h"
-#include <cmath>
 #include <gtest/gtest.h>
+#include <cmath>
+#include "include/circle.h"
+#include "include/tasks.h"
 
 const double EPSILON = 1e-10;
 
